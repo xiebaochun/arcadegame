@@ -1,0 +1,3092 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ArcadeGame.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Game.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ArcadeGame" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="ArcadeGame.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Xna.Framework" version="4.0.0.0" publicKeyToken="842CF8BE1DE50553" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Xna.Framework.Game" version="4.0.0.0" publicKeyToken="842CF8BE1DE50553" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Xna.Framework.GamerServices" version="4.0.0.0" publicKeyToken="842CF8BE1DE50553" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Xna.Framework.Graphics" version="4.0.0.0" publicKeyToken="842CF8BE1DE50553" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Xna.Framework.Input.Touch" version="4.0.0.0" publicKeyToken="842CF8BE1DE50553" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Xna.Framework.Video" version="4.0.0.0" publicKeyToken="842CF8BE1DE50553" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Xna.Framework.Xact" version="4.0.0.0" publicKeyToken="842CF8BE1DE50553" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ArcadeGame.exe" size="134144">
+      <assemblyIdentity name="ArcadeGame" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>AXZLOeKLwAwV/WqQ1mYDAaTr4rI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WEngine.dll" size="34816">
+      <assemblyIdentity name="WEngine" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>dGvXKqbiRhs+kKXhkhxUm1Dt3Wk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Content\GameContent\Effects\SpriteEffect.xnb" size="9144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Re1vguGSLM95Eeugw7ZZFe7yTuc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\0.png" size="26041">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vJ5TfxxSbnwfUDfJItoqdNf56mg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\0.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AtVUY/rs6PrnTV9RJsUYWZRylGI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\1.png" size="28570">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jxj7iecy/d1ux7qyVcQWudT6Y3M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\1.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pHuIEyvgpuOVEXur24Fcr3b8y+s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\10.png" size="31749">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+yQtSVbK96W9Ohl009xl4FTWzIU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\10.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>lVoxe4bUjL9O60cfOvofw41UOK0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\11.png" size="31813">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XX605dwofGZbb7/rKXVEcNiaWMM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\11.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jd2qYCBryPhf5bK63lOfVNFDH44=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\12.png" size="33059">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cJHYNSCRyHkOhHaUissUAGrR6SA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\12.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WKA2JK2JFb8NfzoXOm1A/QF+6Ow=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\13.png" size="33497">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>a3+5wSnJz09k5jS1HYmXUE8ISyE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\13.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>x7wcfDYB6WG1L6DVKMXm/eAXaSc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\14.png" size="34928">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YTeSaEHQe/WJydxscjMZRZAlelU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\14.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FvWIPbkU6jn55o14vAhVmRCjRxY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\15.png" size="32864">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mlc7UzrMk8t4JmwCCH84wm6geIk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\15.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FeFu0HI1YXpv7o7lT+qfBGgtdog=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\16.png" size="28425">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>l6d0/KuNmnnZcmkq5SZRWmqb67k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\16.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ERm8gLsdoh1MJt5c6ekHuj6PPGE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\17.png" size="29067">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Nhof+t8ecVyDgY48bBzljQe/CtE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\17.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WytrLJJBC6NzmibTS+syjPnpFro=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\18.png" size="30226">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>P6c/8gZfnSV8JJ0wDhF10DTMB1E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\18.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JjB4FrSkmlyaUsoFRKvzD/nf+24=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\19.png" size="30525">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wococBDubdgROdhP8teOn5fjnUY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\19.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>p4sxqWtr/wJ/flnoFge0AaaNiuw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\2.png" size="29403">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>OohgHEnTslPZp6nPRLuEU3s7I+k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\2.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8+7TQN1Eq/VW+heou7CvRBwauzM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\20.png" size="31589">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5GTwxi7dbNBmumL5YhL7BtCn8yY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\20.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZUNm4mj9PedPYSkBZxMT+MEcEfM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\21.png" size="32404">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>b+Gq7ch6ENWoCAp15QKsQitZ0D0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\21.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UK2ekltt0MRQHWxya08wle2nefk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\22.png" size="33155">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ifHV4X/pB07rZgoE5B4mwbckTIs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\22.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Hg8i78oX2voKAZrjSAiE1zZHb/U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\23.png" size="33862">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yrJ/ebgusq6b1LY1BbPQyJTeOEU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\23.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3kU3jj8dQ4PJxm3RFjmMYWGaC4k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\24.png" size="34202">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7sp7LxAfUfq5JLkk96RxtcLRnNg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\24.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vktNjtLbQRUYDL1a5apShTd5icw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\25.png" size="35522">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>oGLAg3gol+Ka9dWY5VZGL7tAr08=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\25.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mbDoH1Xe5M5n1pqskcnX5/04U4Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\26.png" size="36130">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>X6iclno+PCSofGEoFv1X0hFp51c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\26.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/nXj3w+cPDyKPKa1MPKOZYj96LY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\27.png" size="16312">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RZ5R81KEETw5cL7RfoolL0UbAG8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\27.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>va93ae/jWXORrwoAfGIi6W+Z61Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\3.png" size="27028">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>t8CFLFEk8GD63XV+3NU180ded4c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\3.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CN5OHMDquGNKhUdpSMv2sOKsQ1Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\4.png" size="24062">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MxRX43/JDwRa1Bb5V+Jf0uj9m7k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\4.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TmjRTw8Lj/2YoRFt545wnn/hWO0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\5.png" size="27746">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6//mpBeR+e6JALEgEv2FrYTQdi4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\5.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4jR+q3ruAWMdBmdNeLEZwVbbCq0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\6.png" size="28501">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Ea0E28D9wTY4lzm89eWx7fdYlnY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\6.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Hmf1PqaGUNGZ++HwnIQsyZbEfNI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\7.png" size="29036">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZPO0OCswCudzWpBaCvmzuXxedPA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\7.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tf4TmD2YdxELxnL3idKKLsi09r0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\8.png" size="29805">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/7BzzqbvKjwipp4vPU6iBwRM9xk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\8.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>m3r/HHuxERPmbqIZ3RXN2rllPUY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\9.png" size="31306">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rMd0l3KGg3p92stfNQd3R6+NQX8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\9.xnb" size="344251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sefLJVnT8OAFH1f5JF+HrNhgEpE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\char.dat" size="20819">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>I5JhJK7NlVrkmRU8RxO2qUk5U1w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Microsoft YaHei_16\info.dat" size="65535">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Q8la+EY33vRaG+kLIQq30FRWYlE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Test.spritefont" size="2076">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qV1x1J5kw0CQf+2X0a41x0i7hjE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Fonts\Test.xnb" size="38062">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8/grckljEjEXkcKVj+b/C3S3l8Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\1.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>62Qk2rFQI+cUYpl56OFVeAKRnEE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\10.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XPkbciLlnruBXn6kx+0F5gej43k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\11.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bYZVLuk67vRJJ7wiM6v/4DIVwY4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\12.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rYRRYR8WijDAv4S7vLLX+rq5n80=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\13.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Y9Xtzv+OsS3tvZRfzkhZvm5XWhM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\2.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UqK39Rb9wdiV4jPDvBO1tXg32bw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\3.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>W3aLGfgdjvbkNC0O/IJ2ocCh09Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\4.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pruhxmTY8divjt/S90euNWB5um8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\5.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>h3ERj86SQa/JaQ3NBukv3vOXZZ0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\6.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RNWhz/Ucp4oclfthj81+DvOg4LA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\7.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RNWhz/Ucp4oclfthj81+DvOg4LA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\8.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>0NMMM979JgaofqtZxeSuY3S3AXs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\9.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Eh9ZD30f5CcHRhxwB1TbGFtHJ1o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\AfterShooting.xnb" size="2400187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1CncApW58+VGQA1cVCTotuW3ykE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\AngerLoop.xnb" size="2505787">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IqcMnJT0n0NSS2vAPZoZyloOLM8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\back.xnb" size="5200187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CTgmZjZx47+OxMS+aECCkDCtQRs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BackGround.xnb" size="5243067">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7ePOnxrWuygxCTa7KfPQOVPl3xo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BackGround1.xnb" size="9216187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KpYVGX5U31HCBpA8I+QtAoLwXQw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BackGround2.xnb" size="9216187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7IFJ5kVOhgrgwZb8Q08z3Nn9o48=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BackToHitBoss.xnb" size="40635">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DZw4nxGKDo+zNMHrxU6d7xoOTjQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BackToRestart.xnb" size="40635">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ISiPWcIuUKcu6K4xWOZ2tpdRnYM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BaGuaZheng.xnb" size="2785243">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JnB0OYBMcbd87U8RpGO2sFm6ndA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss_000.xnb" size="900187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>gaGJ9p1vf4tZ5bOYzfRzvP92nEw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss1Killed.xnb" size="900187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>v2LHDzHolYxGr7Xv5IE5CTUSbO0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss1KilledShader.xnb" size="300187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wBtsK4uSFcdcr4LvJzkOY3UzQyE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss1Portrait_01.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2Dh4tR1I8btFDSaPy47jwsd325c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss1Portrait_02.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>e8CDueBrAV5fZ3R6ZIiJA/ug2vA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss1Portrait_03.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RQN+Mm8kqIcfFncFekab9FW0qWk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss1Portrait_2.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ayxWW6c3Wck+yFXBqOoNUdh28ag=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss2Killed.xnb" size="900187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>X0A2GAd/CyBaPxaVI4b6Zl0Rocw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss2Portrait_01.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bQptwfXbv26Byc8cdRGdpgfmGvw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss2Portrait_02.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>BR2KtQjBdWB4ikG3aVjqkS36i1Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Boss2Portrait_03.xnb" size="361387">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yzF2pNuyQPfJbYtHqxJ0hzddB4k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossAttacked.xnb" size="900187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2/K51U+cwML5QW/O8+7KWIKiHG8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossHP_01.xnb" size="80063">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MhlM+6zV7TVTCEfgltg/vAOZOqY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossHP_02.xnb" size="80063">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sTu49eegM8Gr1anrLnaY8OrJ1qw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossKilled.xnb" size="300187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>68fRBK4sbUAVrkfhpmyKanoQDn0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossKilledShader.xnb" size="300187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>dNGnW6gLB+A4EdEjO98dJ/6JXRo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossName_01.xnb" size="3671">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Dy1OWmA9/jPuh2BvPePQ9v8aEIQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossName_02.xnb" size="3723">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UmI/rWr/295S5q4IW9FUYDXXyv0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossPortrait_01.xnb" size="6115">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>iLojFamjEkXmWZKRoVf73T4nBnA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossPortrait_02.xnb" size="6115">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2VQI9u5Oyj8oP7U958IuCEFnk1Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossShader.xnb" size="300187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>oET8GjM8ti3+rN9sWEyVJrPV11w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\BossShooting.xnb" size="4000187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Y59yoa8H7vpBZrUisajv8Op/oRw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Bus.xnb" size="4325563">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hCUMyiXxPCaJz0tR8w1XgU7CUGY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Choose.xnb" size="403239">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>336DbpN11PccxqVOqNAbDV3koQs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\CollisionRectView.xnb" size="240187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hE8JF0kJA7OnBZRo9WI0E1OJEcU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Continue.xnb" size="37051">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>lU9bfVtYhnObtp0xodIv61QE2bQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Cursor.xnb" size="43963">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>dnZafW5ZwOlk/iqP/bZtddMb6pY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Electric.xnb" size="8892475">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>11RsctvEfAkMKj7MICpBcgWHg+8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Electric_fire.xnb" size="3840187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>o0VdPvn1EBEjdwGzW/3WxEeo4LY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Enemy1.xnb" size="465187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CbgmdxU7xqpk0vroCkkVNRcQ52o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Enemy1Killed.xnb" size="240187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JAx2wE6n48TT8qi6JpTu9Lun81c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Enemy1KilledShader.xnb" size="120187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ISl7hG5FO4ribakRajsF7UncDWU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Enemy1Shader.xnb" size="155187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wJpywvuaOKe2fmxPvE0PCr+n5gI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Enemy2.xnb" size="465187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZWo95kwbRZG9o2hjQQ9SRVw6Te8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Enemy2Killed.xnb" size="520187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FS4PUOee/19ubtR1X2DwrpjRXrg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Enemy2KilledShader.xnb" size="260187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8TOgQcKDFfIIib54Qlx3HXHvQPk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Enemy2Shader.xnb" size="155187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ai0Kp1ALRxjTjJn4qCwA/vTsGvo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Explode.xnb" size="6364699">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KSuuxoyzmHD8ZjGhe5CO9OmGYQE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\farBackGround1.xnb" size="9216187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>906VuCrQcPtC1MPX5c0QSZVwZPc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\farBackGround2.xnb" size="9216187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YymFxGH6iVgA6raEetMXKzC3VMI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\fire.xnb" size="3662755">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>McsXjOaJYcxINJWkziLJJfpWGSo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\fire_fire.xnb" size="7392187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vTUKBMco1agtYqn3HHRO/d2+lFo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\GameEnd.xnb" size="3686587">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sEmZqV65tFEfJCMxEf9GnrvaLWA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\GameName.xnb" size="65627">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IBO+j2I9MDhOSuXRLU6BVVLKCOE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\GameName_01.xnb" size="2104507">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pLEaTJVUm2tYbMEiAGJDGbmu2KI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\generateAnger.xnb" size="1252987">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>zjS3j5Y+knEozwq+So5fgGg9+Yk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\generateElectric.xnb" size="8892475">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JLxbwh3wiaDcgAHPwLFv1qEC86Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\generateSiki.xnb" size="1440187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>43PW/gyhRumYMyUVjG2mrNJNXQw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Hero.xnb" size="594187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>u8uMLlDP5exjIjBadmAwGU5psYI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Hero_T2.xnb" size="594187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>iTcAzzcldqdQLV4FTywEByXCH2g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroAttack1.xnb" size="396187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Hbou5CBSI4tHXnYDgWAJAMvbRPo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroAttack1_T2.xnb" size="396187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Bp8MNqldBxD9iPtlGhKjdG+o5qs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroAttack2.xnb" size="396187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Y+Gk+n/IhMavBz0CwjZRAnquu04=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroAttack2_T2.xnb" size="396187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>fKuKkya0jaCfO9gqfjy1FmBQdyM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroAttacked.xnb" size="594187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>u0axIaMGkkVSYlGDZhS1YyLBHXc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroAttacked_T2.xnb" size="594187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hXeiJBsTm5xs7ywPclu7r5QMs5o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroAttackSkill_001.xnb" size="1497067">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9N7O7WuxsM0DDvpvpSW4BSwVcGM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroAttackSkill_002.xnb" size="4468651">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Kf1o3hvPUPZdy80Dbog8gTnZOGg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroDefense.xnb" size="854587">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/NTK3HOU6fsfoeME6urf8vQyhVI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroDefenseShooted_fire.xnb" size="339667">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5+BIK0jrQfQSN4l9mGAzbNWvt4s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroHighRunning.xnb" size="396187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LwQ+cbjpKONBqdDZ9PyB9srZcW8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroHighRunning_T2.xnb" size="396187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KReS1sjkan5v71jQlDv6m3okMGU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroHP_01.xnb" size="22683">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3G6Kf9l4rxuY9GKq8BFczAMAuZA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroHP_02.xnb" size="22683">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wSwWW3/xCUAezkjiX5TjPuJEj/s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroKilled.xnb" size="99187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XaTnXOui5kEHIV2JXsopmn/5T58=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroKilled_T2.xnb" size="99187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LB1MqjoJmrTeNbeIdert1v4ires=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroKilled1.xnb" size="450187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6QOcF7/alu3Q/LM0Y5tseh7leS8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroKilled1_T2.xnb" size="450187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WGgGQ47s+Pz3soQ3jfOqdNCMxUg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroKilledShader.xnb" size="99187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>lh9EUfbbjI4OQRuUN7zE/pCEIZU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroName.xnb" size="4711">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ARjd4/PWHXsUcuPW47+FsUk7UNM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroPortrait.xnb" size="6115">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>gIKlZCkMMeGeh+AgrGvtsnOJneI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroShader.xnb" size="198187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Pi9vUGjvdO7YFDfWLadlDa6toQE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroTalkPortrait_01.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ygInbXIpTtOXVp3HbKngzSOjxT4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroTalkPortrait_02.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LAtqvX2UN4pOzoZ9BlAksw3HSAw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HeroTalkPortrait_03.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Vhuid24/lL/H7zMi7v4w3lfvtaY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\HitShader.xnb" size="16000187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PpDrtowiLzjcjIeV5rPa3YGhjYQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\LastExplode1.xnb" size="11520187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TiYDt8Ry3PTgmlEcUiR5XYTBs1k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\LastExplode2.xnb" size="11520187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Oe6RDc8vuEK5x9DewItsEfwSbzA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\lianxuzhan.xnb" size="1708987">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>z3af1pWE41gLx56QpTElh8/3Hsg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\littleRedShader.xnb" size="80843">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jQ5VwSvmddNtmrzguHktk6cXvDg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\LOGO.xnb" size="378619">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>20yZr1HwiKqv2w40YSLkX4VBbw8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\MixBossPortrait_01.xnb" size="160187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NfbZytE/tkLacBEwCwc8253724w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\MixBossPortrait_03.xnb" size="160187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JBH1JWcXn7xxGOkGghllmHQ//Xw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\mountain.xnb" size="817387">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TY0jhFptmr5HFFe/rulHrFyL6us=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\npc1Portrait.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>e7/vZYZEWv9mUuXLtoX5FcuQdAE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\npc2.xnb" size="84187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wFPXqMWwHPiHWnSAeM7O6scbEHY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\npc2Portrait.xnb" size="360187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>a//IkSSxmGVvyOsXqDCqiHVf4/4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Over.xnb" size="77595">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SsE6n5f7gZ/Di5dXH3Yvjy7tnvU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Ready.xnb" size="95103">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+NarQ2dTpbdRmHfAQKHZBJmGyWo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\redShader.xnb" size="8000187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2x9fnlH4+hYMYBs+74c8zeW831A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\reduceAnger.xnb" size="1252987">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FNl+KmONk1KdA79gCO7LDDEyAro=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\reduceElectric.xnb" size="5928379">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>GqGo7aRzTjLJrgVvQF8RTwtgOMU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Shoot1.xnb" size="1729819">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jNsD5zm7w73ACfMG72rw4wJ5O+c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Shoot2.xnb" size="115835">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NBEUI/CVA0ClntPCGNvT+1uwzAE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Shoot3.xnb" size="4356355">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>zF8B3HQ6VNs4kJ0kIh5cWGhDPUI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Shoot4.xnb" size="3322555">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>fmOCwsxSoM8hoit7I3wvtH9XUXA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Shoot5.xnb" size="4032019">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>s6XErkXSi0UyIrPQL/Q34eqyckk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Shoot6.xnb" size="2307387">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AL6G08c0OyQvs9ddSEucF2HxQEo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Siki.xnb" size="290683">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Qby787IxHG7aio/nucDjS9HxgcI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Siki_b.xnb" size="290683">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>j5aS9owYwFe58gadfUTMVQNfgBg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\SikiAttack.xnb" size="854587">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>fcKaGulvZ7smVpRCfJAnpDLlwj8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\SikiAttack1.xnb" size="569787">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>0bf3Qu33iniAemMwjKeeEhQXmIM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\SikiAttack2.xnb" size="569787">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WrhhrATGu907IVRU413KDuZjAVU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\SikiAttackSkillEffect1.xnb" size="913051">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>zTEacmQaICAafmZP11MuYIbVlac=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\SikiAttackSkillEffect2.xnb" size="608763">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vUyJrvYfaiM8rQY9iTV3TrhEtpA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\SpeedUpShader.xnb" size="2073787">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8zwaVM18SWCR8mgQxngSIMBkroQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Start_01.xnb" size="288507">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pIB2aSlWMsC1t7+6vkF4TXC3Fyc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\T01.xnb" size="3686587">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>BpGPgSbiTjuJcsErIg6z7od17eM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\T02.xnb" size="3686587">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>p56vK64rNhqJIx2+gkODq3ml8GY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\TakeOutGun.xnb" size="400187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YyVfXGW02+iNjeTYjdvQRfki8js=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\TalkBackGround.xnb" size="640187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>08Dfl3Svo2qYCazeUxoXaBYu2Ro=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\timeStop3.xnb" size="8384587">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>O46N7jyVURGb6B0W2POgVkxI0X8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\timeStopBullet.xnb" size="3840187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1sBGpjsGFAkMxTK8D84qRel1bJ8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\Victory.xnb" size="50299">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pMG4IZWqOM7u7Bo8EnJ8uj4CcNk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\xinyue.xnb" size="2041195">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1/3rZYxiMciSTtMolhW5Xmy4AMI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\YongYuCursor.xnb" size="43963">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>dnZafW5ZwOlk/iqP/bZtddMb6pY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Images\zhaoshibiao.xnb" size="9634303">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SHwuauydiQ+srggLMz3/jckhTcU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\001.xnb" size="374955">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZyzujI9VO7737B1gmoEv15KCkKQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\002.xnb" size="176505">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sdhUFBAuuGjnMjtLrLYeFl0coKk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\003.xnb" size="683655">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>39iI2baiX5IGH+p7rlReHDFAFwY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\004.xnb" size="705705">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>zALl1PLHPoBouQUuYPVyFQz8LT4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\005.xnb" size="419055">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>slmgTqDO2QFq6xZouNVWhscVNfo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\006.xnb" size="374955">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vSIM64YZzOjxqIFsPPdfhWEvw7M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\007.xnb" size="2887129">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>oF7kjZJ0agKSNmKqL6FS5YaAKP4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\008.xnb" size="1012879">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>OiJc7RGML4jAEAEcD97SZ6QBg9k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\009.xnb" size="727755">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yTPwTrtJ73gcRcbGpi1ttSH0k6s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\010.xnb" size="308805">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7rZzQVaYEXe+VAE7rEzyStvAhsc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\011.xnb" size="176505">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>b1KDqLuTN5lOOLbn8ADY4XzYlHI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\012.xnb" size="1020231">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aDq5X4oFq+JAY2Ht6+pAEUBoz3U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\013.xnb" size="308805">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/TrQqPojPAJAN2Qp4UDm0TJ5LN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\014.xnb" size="926205">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jmh1MgMQ1PxEZgsu8oDfnGkaEmY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\015.xnb" size="595455">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>uKxKjS1m1wrMBHTqT07MgtyVXNs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano04.xnb" size="17411441">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rKOOHIabF4wMKR2s1lX+3DfNKD4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano07.xnb" size="9376141">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>al/0J3k7pNafffNUGp/y9ZY6Kng=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndHeroTalk_01.xnb" size="485205">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>g41c0ZKfAu27ofB0AqFrdYGdLIk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndHeroTalk_02.xnb" size="286755">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LWAX20QXTUhZ9jflzcyLCZb1Fic=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndHeroTalk_03.xnb" size="1124655">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/JBIzr/ktLtpY8wwISa8Ivo3ZeA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndHeroTalk_04.xnb" size="485205">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TZaMQqeBu+tqhtr04BFeya+sCjo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndHeroTalk_05.xnb" size="132405">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DN1eAxZ3qlXicoF+XYfcztYy4O0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndHeroTalk_06.xnb" size="490623">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Kg5hKnteMK+3HtBgDtD/u5HEP+I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_01.xnb" size="485205">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Nec7K+T43GqMZS5MI6y1J/YlH2o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_02.xnb" size="242655">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bOhsDuzk+aDWy9W5oZQ71rgftOU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_03.xnb" size="860055">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>zI6N8fW5e4vF8XUPsRB+fmbawv4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_04.xnb" size="154455">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4RP5sp3GrLHNHPCnkA8KsxPUWe4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_05.xnb" size="1124655">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jOok5WlHkrfggIZItJx0NBZifFc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_06.xnb" size="617505">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DOj5YCm3Ez1QIyjvIRnF+vulizo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_07.xnb" size="286755">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hUEyg0UwRsdwo8+G+jI42bX0Pzc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_08.xnb" size="198555">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7TQdwnr6809bBmxEMVGw57KlJT0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_09.xnb" size="198555">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qIYsEhfaAXLNC+i1p9M/KKNy2Sg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_10.xnb" size="838005">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>X/15X7EunqwR4YApJPCPQrbL46I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_11.xnb" size="639555">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8XlRzf1qVdLJOUTWCk7QxXqU0aw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\EndNpcTalk_12.xnb" size="608717">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Q1421cJKaZAs8cbg60u6yblsK5A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\HeroTalk_01.xnb" size="154455">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>O/dOjKcWk6DtD/p6htDhaJYpHIo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\koulin1.xnb" size="176505">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sxOP7cNrlg/2w8qppeZHcw0kQ0k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\koulin2.xnb" size="93409">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+YT5MlwpffXVhTD3iuciAA+a2Qc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\koulin3.xnb" size="64617">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>X1eYo5see6sDPsTLSDlMsq+Qm+4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\koulin4.xnb" size="83049">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7OX5hZWkIhuH2g/9SEJ0TZDlrpc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\NpcTalk_01.xnb" size="1477455">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+85w2kVAj+9FDeH5FT+BuhXUdN0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\NpcTalk_02.xnb" size="529305">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sg80qdnVOQSq16vQd3ASBE7C8PA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\NpcTalk_03.xnb" size="904155">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Ccyf0j5p0a6YuHPVBZr7MVf3vCY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\NpcTalk_04.xnb" size="1212855">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IF6SH2VXko47RM979Op37cck4ns=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\NpcTalk_05.xnb" size="727755">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+cOfGFPeuDQsgfbcb9ozWTzkNbY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\one.xnb" size="20754537">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Ogu1bqXXVNt9CHjfeO7ZaWrXfXY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\Talk_01.xnb" size="154455">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>O/dOjKcWk6DtD/p6htDhaJYpHIo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\BGM\two.xnb" size="8156253">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>s7eLSJt9aHaoQSwP2hQalk6/5uU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\00.xnb" size="155337">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>oc+jXYnjF1AVqfECToBky5/nom0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\01.xnb" size="432549">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xmFaB7OnFYTFhTDhY5I6QUX0y3U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\02.xnb" size="513121">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SN0w3rp1ULcglCVW3PedbDbX6Hs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\03.xnb" size="54801">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>BXcSguhfW1TtcXdFp1IY4h+jbKo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\04.xnb" size="21993">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Yn81dzcT/v2Brsl2geigPDEDKy0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\05.xnb" size="162947">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>refMPmvT5La9Xm0Y7k5SYmQaIk8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\06.xnb" size="21203">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>krSBPpGC7wWq7Cimpvo4apubTAI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\07.xnb" size="67887">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>VVcIn+eHUMxvMzXvN7eVMMYTLoE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\08.xnb" size="94953">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>njwm000IStN9Iuxe7iFSD23Yeu8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\09.xnb" size="35129">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>0rsOTLVgtWaw1B5jtSf+yOkBarI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\10.xnb" size="1778793">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7OmfkvXzslozMIvCOlDRv6s4vWA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\11.xnb" size="628653">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>GY8vk8R+vo5bbs4lCqv1aBCehV4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\12.xnb" size="2921577">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2D7/6xEFuQEqQ+vEVkshff6TdJc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\13.xnb" size="5488233">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>S6G8hxbh/F4XJdRYQuAXRWMBwMo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\14.xnb" size="171113">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+I/hK3Rdf3ceJ1HjEUF5C8prmAU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\15.xnb" size="51449">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>kNsZHJLhZXl0sBxXLRDkuVnnZug=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\16.xnb" size="83673">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>iuPdHPK1jWYNtpy7yg2C3Nu3WcM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\17.xnb" size="424041">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nXAmdzzoyAD7+1OvH/LG/Q/G8jE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\18.xnb" size="77929">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TGxK0siOwQa9LOiJFVPCq5Dfd3Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\19.xnb" size="69737">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9ycHNPRIyGJs32ul8S7mQ3W8170=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\20a.xnb" size="100457">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Ip9n4CLtejz6vAgDFoCm97ufLVE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\20b.xnb" size="85097">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1/8FrH36Pi7kRCxdyka2uwyI7Rc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\20c.xnb" size="111721">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>VJTjqo+9Vcm17/D7rGDebE86XRA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\20d.xnb" size="60521">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qu/SH+AAFjwoBHfRFmmKQjXK4To=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\21.xnb" size="70613">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>R/HAgt2cFKlZcAsxxCDH36I2CWo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\22.xnb" size="301497">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>q/ZbCe4WzUKGYOihgl1tNuHAsTY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\23.xnb" size="191269">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>snsP9AHHQuXfaiO5XpuWZea8XLI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\24.xnb" size="129803">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>unoltnLU3Pv+uUn5lPil6GDWjZ4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\25a.xnb" size="43195">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>B7mD4uzPgAOPsBLZ04z156P8Z+8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\25b.xnb" size="70589">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MQJqKlPfkWJd55VcsJksEY9TgR8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\25c.xnb" size="76309">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AeENiL6f2MtkgXhaBwXfN/w1quQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\25d.xnb" size="58783">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pwpcSMnepmRif9FNwm8hX8Un9Mo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\25e.xnb" size="49229">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>c6n8G99KykzDWGd4JJ0p00azTdM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\25f.xnb" size="78159">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>lA14SRPQ/aYxIe2yWYAGeefmSvU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\25g.xnb" size="38453">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LEv57IlDbFyxDxLuJyXUg2VBRqk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\25h.xnb" size="57685">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/qj01sSSu9y1mVidhrZr2kLQyks=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\25i.xnb" size="58407">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nSVas13VPv04z4X9uNBhw6pyd7U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\25j.xnb" size="49083">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>uEa9fY3MpfE2czLyPCqOvv9BkZ8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\26a.xnb" size="52499">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Xp87YVJFIAemjmQBbJ+O7l0QGXQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\26b.xnb" size="75283">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AwmRSEJY5pty13VXOlHT7PAZiGs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\27a.xnb" size="241555">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>gRhMpa0WRfEVdUxdW3gPlZ0WngI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\27b.xnb" size="227747">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>X0W1t94wAB9enTwEtdXnLEoJIRg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\28a.xnb" size="132405">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Tn8j94BTurMwI2UZuf2RS/wR7oY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\28b.xnb" size="132405">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NwjVpAQBBMOzCT0Wo/cjbW8DRo4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\29a.xnb" size="198555">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qm1IGunFICms83XIFNlYxjj25SA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\29b.xnb" size="109555">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IMflcIg23pXJ0a8OIlJpVY1yPHg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\30a.xnb" size="162651">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+T6R95HCXTeAtDyeiq7iJKavInU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\30b.xnb" size="132405">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7phQ+Wp8861mPNtYmRdEc+Y7H2o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\31a.xnb" size="751721">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yaSGNf5Jy+KLsh9V2PMFT/AuApo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\31b.xnb" size="618601">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZNOZYmPfhoSwnSQHkORsGuRVWa0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_01.xnb" size="725097">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1rozoY67xBQeVnzJLv1MorfYq5w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_02.xnb" size="618601">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZNOZYmPfhoSwnSQHkORsGuRVWa0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_03.xnb" size="1212521">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IuUOkdwNMZNWEv70tyQGZ9q2RcU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_04.xnb" size="753769">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>juI68BA96ulmun2B12IVn5Mqr9A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_05.xnb" size="1172585">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>EfHjX482fiZECrgSplRKrbrAtuw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_06.xnb" size="753769">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Sf+2scdtooGZwbNKofjibb1YJ7c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_07.xnb" size="366697">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>A8ZKb9dNxncaeHumgfqjFUSK7Ng=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_08.xnb" size="776297">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>m3oZ9L5SEN+LfMCvx8tF+hwovw4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_09.xnb" size="622697">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JeImNEjO6K+OtnCWl3aqTK42+v4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_10.xnb" size="1189993">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2IMMagcLXUKUQI+9jvxBvrH4Fp8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\ane_11.xnb" size="254057">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>u6pyfnZLhTHBFpiimQgG+jLBDK8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\HeroTalk_01.xnb" size="154455">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>O/dOjKcWk6DtD/p6htDhaJYpHIo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_01.xnb" size="1044585">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>A6j5erNndUbk5Uy7Ke0/aSjkKlA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_03.xnb" size="1075305">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nwd0bRIZtqP0CGRpfhe108+VCOM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_04.xnb" size="512105">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sGhcKkRNKTD0a1GvkyXHR7Nivho=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_05.xnb" size="1132649">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>VbXv4ATQHLPJDASxeB60lGdXVDA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_06.xnb" size="1433705">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qGG+Z1IRpjRuh+9kCAJHC8QwB18=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_07.xnb" size="569449">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jZfrJMPWmHAA+27s2fBp49Q3xAE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_08.xnb" size="340073">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pnWs5w09mngoyl1b3mxDV3h1Pcg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_09.xnb" size="753769">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tkmuvtnlrO7rR+tnIt3LjdzkG6A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_10.xnb" size="1208425">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UChULxhBgu34ArG/VJTeKMJQhM8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_11.xnb" size="680041">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>h2ofb5RJ/wtqXapsDZhfbNkSPeo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\imo_12.xnb" size="1525865">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KvkP1nzCeOciTqHfQsS7jlGu3tI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\mix_01.xnb" size="363625">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ATXk1V3ohdmyeSa+q55I+cDmcro=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\mix_02.xnb" size="411753">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>L56iJAFDkbtXvCTLoJgHl+sV14Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\mix_02ane.xnb" size="411753">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8L/XuZQ0L1y7gdBMDP+5hRj+5ao=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\mix_02imo.xnb" size="411753">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yWITP/dsOZd+akMt/K0Ru92XYgE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\NpcTalk_01.xnb" size="1477455">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+85w2kVAj+9FDeH5FT+BuhXUdN0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\NpcTalk_02.xnb" size="529305">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sg80qdnVOQSq16vQd3ASBE7C8PA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\NpcTalk_03.xnb" size="904155">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Ccyf0j5p0a6YuHPVBZr7MVf3vCY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\NpcTalk_04.xnb" size="1212855">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IF6SH2VXko47RM979Op37cck4ns=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\GameContent\Sounds\SE\NpcTalk_05.xnb" size="727755">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+cOfGFPeuDQsgfbcb9ozWTzkNbY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Game.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/y21PfwGnUAkwpPwwaFuIIyWENo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="GameThumbnail.png" size="5734">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>diNvdcDpDtGEMuMQIHpkKK3qVHc=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>

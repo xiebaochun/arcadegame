@@ -1,0 +1,1367 @@
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Effects\SpriteEffect.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Test.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Killed.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1KilledShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Killed.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossKilled.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossKilledShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossShooting.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss_000.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Bus.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1Killed.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1KilledShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1Shader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2Killed.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2KilledShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2Shader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Explode.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\farBackGround1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\farBackGround2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameName.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Hero.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttacked.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHighRunning.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilledShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HitShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Over.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Ready.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot3.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot4.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot5.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot6.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SpeedUpShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Victory.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttackSkill_001.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttackSkill_002.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Siki.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LastExplode1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LastExplode2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\AfterShooting.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossAttacked.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\TakeOutGun.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttackSkillEffect1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttackSkillEffect2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Electric.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\fire.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateElectric.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\reduceElectric.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\xinyue.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroDefense.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroDefenseShooted_fire.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\fire_fire.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Electric_fire.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\lianxuzhan.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\timeStopBullet.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\redShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\timeStop3.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\mountain.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\littleRedShader.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroName.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroPortrait.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHP_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHP_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossName_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossName_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossPortrait_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossPortrait_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossHP_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossHP_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LOGO.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\T01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameName_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\T02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Start_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\TalkBackGround.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Continue.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BaGuaZheng.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc1Portrait.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc2Portrait.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateAnger.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\reduceAnger.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\AngerLoop.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateSiki.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Siki_b.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackToHitBoss.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackToRestart.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Cursor.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\MixBossPortrait_03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameEnd.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\MixBossPortrait_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\zhaoshibiao.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\CollisionRectView.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Choose.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack1_T2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack2_T2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttacked_T2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHighRunning_T2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled1_T2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled_T2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Hero_T2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\YongYuCursor.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\HeroTalk_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\one.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\two.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\Talk_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\001.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\002.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\005.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\003.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\006.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\004.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\007.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\008.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\009.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\010.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\011.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\012.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\013.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\014.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\015.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin3.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin4.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\HeroTalk_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_04.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_05.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_06.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_07.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_08.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_09.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_10.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_11.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_12.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_04.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_05.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_06.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_07.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_08.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_09.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_10.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_11.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02ane.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02imo.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_04.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_05.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_04.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_05.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_06.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_07.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_08.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_04.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_09.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_05.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_10.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_06.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_11.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_12.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_04.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_05.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\0.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\10.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\11.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\12.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\13.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\14.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\15.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\16.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\17.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\18.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\19.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\20.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\21.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\22.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\23.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\24.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\25.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\26.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\27.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\3.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\4.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\5.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\6.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\7.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\8.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\9.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\char.dat
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\info.dat
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\0.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\1.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\10.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\11.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\12.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\13.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\14.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\15.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\16.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\17.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\18.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\19.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\2.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\20.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\21.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\22.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\23.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\24.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\25.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\3.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\4.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\5.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\6.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\7.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\8.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\9.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\26.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\微软雅黑_16\27.png
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Test.spritefont
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.exe.manifest
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.application
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.exe
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.pdb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\WEngine.dll
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\WEngine.pdb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.csprojResolveAssemblyReference.cache
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.exe.manifest
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.application
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.exe
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.pdb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\1.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\2.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\3.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\4.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\5.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\6.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\7.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\8.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\9.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\10.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\11.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\12.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\13.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\00.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\01.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\02.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\03.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\04.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\05.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\06.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\07.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\08.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\09.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\10.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\11.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\12.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\13.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\14.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\15.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\16.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\17.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\18.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\19.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20a.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20b.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20c.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20d.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\21.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\22.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\23.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\24.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25a.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25b.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25c.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25d.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25e.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25f.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25g.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25h.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25i.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25j.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\26a.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\26b.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\27a.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\27b.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\28a.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\28b.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\29a.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\29b.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\30a.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\30b.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\31a.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\31b.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano04.xnb
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano07.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.csprojResolveAssemblyReference.cache
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.exe
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Effects\SpriteEffect.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Test.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Killed.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1KilledShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Killed.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossKilled.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossKilledShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossShooting.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss_000.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Bus.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1Killed.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1KilledShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1Shader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2Killed.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2KilledShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2Shader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Explode.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\farBackGround1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\farBackGround2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameName.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Hero.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttacked.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHighRunning.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilledShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HitShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Over.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Ready.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot3.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot4.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot5.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot6.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SpeedUpShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Victory.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttackSkill_001.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttackSkill_002.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Siki.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LastExplode1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LastExplode2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\AfterShooting.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossAttacked.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\TakeOutGun.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttackSkillEffect1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttackSkillEffect2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Electric.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\fire.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateElectric.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\reduceElectric.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\xinyue.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroDefense.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroDefenseShooted_fire.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\fire_fire.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Electric_fire.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\lianxuzhan.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\timeStopBullet.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\redShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\timeStop3.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\mountain.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\littleRedShader.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroName.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroPortrait.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHP_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHP_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossName_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossName_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossPortrait_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossPortrait_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossHP_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossHP_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LOGO.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\T01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameName_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\T02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Start_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\TalkBackGround.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Continue.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BaGuaZheng.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc1Portrait.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc2Portrait.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateAnger.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\reduceAnger.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\AngerLoop.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateSiki.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Siki_b.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackToHitBoss.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackToRestart.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Cursor.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\MixBossPortrait_03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameEnd.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\MixBossPortrait_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\zhaoshibiao.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\CollisionRectView.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Choose.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack1_T2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack2_T2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttacked_T2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHighRunning_T2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled1_T2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled_T2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Hero_T2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\YongYuCursor.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\3.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\4.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\5.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\6.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\7.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\8.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\9.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\10.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\11.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\12.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\13.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\HeroTalk_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\one.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\two.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\Talk_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\001.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\002.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\005.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\003.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\006.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\004.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\007.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\008.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\009.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\010.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\011.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\012.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\013.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\014.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\015.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin3.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin4.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\HeroTalk_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_04.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_05.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_06.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_07.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_08.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_09.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_10.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_11.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_12.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_04.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_05.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_06.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_07.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_08.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_09.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_10.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_11.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02ane.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02imo.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_04.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_05.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_04.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_05.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_06.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_07.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_08.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_04.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_09.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_05.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_10.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_06.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_11.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_12.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_04.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_05.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\00.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\01.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\02.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\03.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\04.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\05.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\06.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\07.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\08.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\09.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\10.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\11.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\12.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\13.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\14.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\15.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\16.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\17.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\18.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\19.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20a.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20b.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20c.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20d.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\21.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\22.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\23.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\24.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25a.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25b.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25c.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25d.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25e.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25f.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25g.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25h.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25i.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25j.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\26a.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\26b.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\27a.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\27b.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\28a.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\28b.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\29a.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\29b.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\30a.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\30b.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\31a.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\31b.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano04.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano07.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Test.spritefont
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.exe.manifest
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.application
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.exe
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.pdb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\WEngine.dll
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\WEngine.pdb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.exe.manifest
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.application
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.pdb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\back.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\0.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\1.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\10.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\11.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\12.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\13.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\14.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\15.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\16.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\17.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\18.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\19.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\2.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\20.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\21.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\22.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\23.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\24.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\25.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\26.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\27.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\3.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\4.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\5.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\6.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\7.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\8.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\9.xnb
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\char.dat
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\info.dat
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\0.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\1.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\10.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\11.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\12.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\13.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\14.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\15.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\16.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\17.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\18.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\19.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\2.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\20.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\21.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\22.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\23.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\24.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\25.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\3.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\4.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\5.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\6.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\7.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\8.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\9.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\26.png
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\27.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Effects\SpriteEffect.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Test.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Killed.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1KilledShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Killed.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossKilled.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossKilledShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossShooting.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss_000.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Bus.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1Killed.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1KilledShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1Shader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2Killed.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2KilledShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2Shader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Explode.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\farBackGround1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\farBackGround2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameName.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Hero.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttacked.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHighRunning.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilledShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HitShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Over.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Ready.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot3.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot4.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot5.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot6.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SpeedUpShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Victory.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttackSkill_001.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttackSkill_002.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Siki.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LastExplode1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LastExplode2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\AfterShooting.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossAttacked.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\TakeOutGun.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttackSkillEffect1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttackSkillEffect2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Electric.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\fire.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateElectric.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\reduceElectric.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\xinyue.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroDefense.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroDefenseShooted_fire.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\fire_fire.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Electric_fire.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\lianxuzhan.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\timeStopBullet.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\redShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\timeStop3.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\mountain.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\littleRedShader.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroName.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroPortrait.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHP_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHP_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossName_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossName_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossPortrait_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossPortrait_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossHP_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossHP_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LOGO.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\T01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameName_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\T02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Start_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\TalkBackGround.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Continue.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BaGuaZheng.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc1Portrait.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc2Portrait.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateAnger.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\reduceAnger.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\AngerLoop.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateSiki.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Siki_b.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackToHitBoss.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackToRestart.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Cursor.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\MixBossPortrait_03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameEnd.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\MixBossPortrait_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\zhaoshibiao.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\CollisionRectView.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Choose.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack1_T2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack2_T2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttacked_T2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHighRunning_T2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled1_T2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled_T2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Hero_T2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\YongYuCursor.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\3.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\4.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\5.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\6.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\7.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\8.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\9.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\10.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\11.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\12.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\13.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\back.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\HeroTalk_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\one.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\two.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\Talk_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\001.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\002.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\005.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\003.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\006.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\004.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\007.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\008.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\009.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\010.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\011.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\012.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\013.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\014.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\015.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin3.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin4.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\HeroTalk_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_04.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_05.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_06.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_07.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_08.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_09.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_10.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_11.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_12.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_04.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_05.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_06.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_07.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_08.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_09.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_10.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_11.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02ane.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02imo.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_04.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_05.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_04.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_05.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_06.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_07.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_08.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_04.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_09.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_05.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_10.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_06.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_11.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_12.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_04.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_05.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\00.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\01.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\02.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\03.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\04.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\05.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\06.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\07.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\08.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\09.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\10.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\11.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\12.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\13.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\14.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\15.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\16.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\17.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\18.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\19.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20a.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20b.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20c.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20d.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\21.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\22.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\23.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\24.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25a.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25b.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25c.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25d.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25e.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25f.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25g.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25h.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25i.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25j.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\26a.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\26b.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\27a.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\27b.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\28a.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\28b.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\29a.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\29b.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\30a.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\30b.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\31a.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\31b.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano04.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano07.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\0.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\1.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\10.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\11.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\12.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\13.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\14.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\15.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\16.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\17.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\18.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\19.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\2.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\20.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\21.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\22.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\23.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\24.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\25.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\26.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\27.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\3.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\4.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\5.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\6.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\7.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\8.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\9.xnb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\char.dat
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\info.dat
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\0.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\1.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\10.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\11.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\12.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\13.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\14.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\15.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\16.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\17.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\18.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\19.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\2.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\20.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\21.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\22.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\23.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\24.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\25.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\3.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\4.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\5.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\6.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\7.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\8.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\9.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\26.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\27.png
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Test.spritefont
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.exe.manifest
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.application
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.exe
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.pdb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\WEngine.dll
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\WEngine.pdb
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.csprojResolveAssemblyReference.cache
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.exe.manifest
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.application
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.exe
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.pdb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Effects\SpriteEffect.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Test.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackGround2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Killed.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1KilledShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Killed.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossKilled.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossKilledShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossShooting.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss_000.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Bus.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1Killed.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1KilledShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy1Shader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2Killed.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2KilledShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Enemy2Shader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Explode.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\farBackGround1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\farBackGround2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameName.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Hero.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttacked.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHighRunning.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilledShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HitShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Over.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Ready.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot3.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot4.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot5.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Shoot6.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SpeedUpShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Victory.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttackSkill_001.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttackSkill_002.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Siki.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LastExplode1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LastExplode2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\AfterShooting.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossAttacked.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\TakeOutGun.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttack2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttackSkillEffect1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\SikiAttackSkillEffect2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Electric.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\fire.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateElectric.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\reduceElectric.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\xinyue.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroDefense.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroDefenseShooted_fire.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\fire_fire.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Electric_fire.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\lianxuzhan.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\timeStopBullet.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\redShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\timeStop3.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\mountain.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\littleRedShader.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroName.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroPortrait.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHP_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHP_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossName_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossName_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossPortrait_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossPortrait_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossHP_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BossHP_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\LOGO.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\T01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameName_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\T02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Start_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroTalkPortrait_03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\TalkBackGround.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Continue.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BaGuaZheng.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc1Portrait.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\npc2Portrait.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateAnger.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\reduceAnger.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\AngerLoop.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\generateSiki.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Siki_b.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackToHitBoss.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\BackToRestart.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss2Portrait_03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Cursor.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\MixBossPortrait_03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\GameEnd.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\MixBossPortrait_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Boss1Portrait_2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\zhaoshibiao.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\CollisionRectView.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Choose.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack1_T2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttack2_T2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroAttacked_T2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroHighRunning_T2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled1_T2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\HeroKilled_T2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\Hero_T2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\YongYuCursor.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\3.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\4.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\5.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\6.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\7.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\8.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\9.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\10.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\11.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\12.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\13.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Images\back.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\HeroTalk_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\one.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\two.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\Talk_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\001.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\002.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\005.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\003.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\006.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\004.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\007.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\008.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\009.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\010.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\011.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\012.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\013.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\014.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\015.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin3.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\koulin4.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\HeroTalk_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_04.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_05.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_06.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_07.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_08.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_09.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_10.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_11.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\imo_12.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_04.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_05.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_06.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_07.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_08.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_09.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_10.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\ane_11.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02ane.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\mix_02imo.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_04.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\NpcTalk_05.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_04.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_05.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_06.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_07.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_08.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_04.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_09.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_05.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_10.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndHeroTalk_06.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_11.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\EndNpcTalk_12.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_04.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\NpcTalk_05.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\00.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\01.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\02.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\03.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\04.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\05.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\06.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\07.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\08.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\09.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\10.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\11.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\12.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\13.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\14.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\15.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\16.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\17.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\18.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\19.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20a.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20b.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20c.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\20d.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\21.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\22.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\23.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\24.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25a.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25b.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25c.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25d.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25e.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25f.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25g.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25h.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25i.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\25j.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\26a.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\26b.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\27a.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\27b.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\28a.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\28b.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\29a.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\29b.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\30a.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\30b.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\31a.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\SE\31b.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano04.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano07.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\0.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\1.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\10.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\11.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\12.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\13.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\14.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\15.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\16.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\17.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\18.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\19.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\2.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\20.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\21.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\22.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\23.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\24.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\25.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\26.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\27.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\3.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\4.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\5.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\6.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\7.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\8.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\9.xnb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\char.dat
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\info.dat
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\0.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\1.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\10.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\11.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\12.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\13.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\14.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\15.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\16.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\17.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\18.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\19.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\2.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\20.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\21.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\22.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\23.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\24.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\25.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\3.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\4.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\5.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\6.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\7.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\8.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\9.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\26.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Microsoft YaHei_16\27.png
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\Content\GameContent\Fonts\Test.spritefont
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.exe.manifest
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.application
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.exe
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\ArcadeGame.pdb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\WEngine.dll
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\bin\x86\Debug\WEngine.pdb
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.csprojResolveAssemblyReference.cache
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.exe.manifest
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.application
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.exe
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGame\obj\x86\Debug\ArcadeGame.pdb

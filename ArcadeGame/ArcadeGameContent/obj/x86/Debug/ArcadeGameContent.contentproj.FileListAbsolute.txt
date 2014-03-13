@@ -1,0 +1,9 @@
+J:\盘\2\1\windows phone7 developing\workplace\ArcadeGame\ArcadeGame\ArcadeGameContent\obj\x86\Debug\ArcadeGameContent.contentprojResolveAssemblyReference.cache
+I:\ArcadeGame\ArcadeGame\ArcadeGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Users\xiebc\Desktop\ArcadeGame\ArcadeGame\ArcadeGameContent\obj\x86\Debug\ArcadeGameContent.contentprojResolveAssemblyReference.cache
+D:\ArcadeGame\ArcadeGame\ArcadeGameContent\obj\x86\Debug\ArcadeGameContent.contentprojResolveAssemblyReference.cache
+J:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGameContent\obj\x86\Debug\ArcadeGameContent.contentprojResolveAssemblyReference.cache
+F:\同人ARPG制作\ArcadeGame包\ArcadeGame\ArcadeGameContent\obj\x86\Debug\ArcadeGameContent.contentprojResolveAssemblyReference.cache
+H:\Users\xiebc\Desktop\ArcadeGame包\ArcadeGame\ArcadeGameContent\obj\x86\Debug\ArcadeGameContent.contentprojResolveAssemblyReference.cache
+J:\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGameContent\obj\x86\Debug\ArcadeGameContent.contentprojResolveAssemblyReference.cache
+J:\DEV\同人ARPG制作\ArcadeGame包（最终版7月27日）\ArcadeGame\ArcadeGameContent\obj\x86\Debug\ArcadeGameContent.contentprojResolveAssemblyReference.cache

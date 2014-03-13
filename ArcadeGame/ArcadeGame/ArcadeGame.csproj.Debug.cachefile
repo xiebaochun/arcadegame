@@ -1,0 +1,330 @@
+Content\GameContent\Effects\SpriteEffect.xnb
+Content\GameContent\Fonts\Test.xnb
+Content\GameContent\Images\BackGround.xnb
+Content\GameContent\Images\BackGround1.xnb
+Content\GameContent\Images\BackGround2.xnb
+Content\GameContent\Images\Boss1Killed.xnb
+Content\GameContent\Images\Boss1KilledShader.xnb
+Content\GameContent\Images\Boss2Killed.xnb
+Content\GameContent\Images\BossKilled.xnb
+Content\GameContent\Images\BossKilledShader.xnb
+Content\GameContent\Images\BossShader.xnb
+Content\GameContent\Images\BossShooting.xnb
+Content\GameContent\Images\Boss_000.xnb
+Content\GameContent\Images\Bus.xnb
+Content\GameContent\Images\Enemy1.xnb
+Content\GameContent\Images\Enemy1Killed.xnb
+Content\GameContent\Images\Enemy1KilledShader.xnb
+Content\GameContent\Images\Enemy1Shader.xnb
+Content\GameContent\Images\Enemy2.xnb
+Content\GameContent\Images\Enemy2Killed.xnb
+Content\GameContent\Images\Enemy2KilledShader.xnb
+Content\GameContent\Images\Enemy2Shader.xnb
+Content\GameContent\Images\Explode.xnb
+Content\GameContent\Images\farBackGround1.xnb
+Content\GameContent\Images\farBackGround2.xnb
+Content\GameContent\Images\GameName.xnb
+Content\GameContent\Images\Hero.xnb
+Content\GameContent\Images\HeroAttacked.xnb
+Content\GameContent\Images\HeroHighRunning.xnb
+Content\GameContent\Images\HeroKilled.xnb
+Content\GameContent\Images\HeroKilled1.xnb
+Content\GameContent\Images\HeroKilledShader.xnb
+Content\GameContent\Images\HeroShader.xnb
+Content\GameContent\Images\HitShader.xnb
+Content\GameContent\Images\Over.xnb
+Content\GameContent\Images\Ready.xnb
+Content\GameContent\Images\Shoot1.xnb
+Content\GameContent\Images\Shoot2.xnb
+Content\GameContent\Images\Shoot3.xnb
+Content\GameContent\Images\Shoot4.xnb
+Content\GameContent\Images\Shoot5.xnb
+Content\GameContent\Images\Shoot6.xnb
+Content\GameContent\Images\SpeedUpShader.xnb
+Content\GameContent\Images\Victory.xnb
+Content\GameContent\Images\HeroAttackSkill_001.xnb
+Content\GameContent\Images\HeroAttackSkill_002.xnb
+Content\GameContent\Images\Siki.xnb
+Content\GameContent\Images\SikiAttack.xnb
+Content\GameContent\Images\LastExplode1.xnb
+Content\GameContent\Images\LastExplode2.xnb
+Content\GameContent\Images\AfterShooting.xnb
+Content\GameContent\Images\BossAttacked.xnb
+Content\GameContent\Images\TakeOutGun.xnb
+Content\GameContent\Images\SikiAttack1.xnb
+Content\GameContent\Images\SikiAttack2.xnb
+Content\GameContent\Images\SikiAttackSkillEffect1.xnb
+Content\GameContent\Images\SikiAttackSkillEffect2.xnb
+Content\GameContent\Images\Electric.xnb
+Content\GameContent\Images\fire.xnb
+Content\GameContent\Images\generateElectric.xnb
+Content\GameContent\Images\reduceElectric.xnb
+Content\GameContent\Images\xinyue.xnb
+Content\GameContent\Images\HeroDefense.xnb
+Content\GameContent\Images\HeroDefenseShooted_fire.xnb
+Content\GameContent\Images\fire_fire.xnb
+Content\GameContent\Images\Electric_fire.xnb
+Content\GameContent\Images\lianxuzhan.xnb
+Content\GameContent\Images\timeStopBullet.xnb
+Content\GameContent\Images\redShader.xnb
+Content\GameContent\Images\timeStop3.xnb
+Content\GameContent\Images\mountain.xnb
+Content\GameContent\Images\littleRedShader.xnb
+Content\GameContent\Images\HeroAttack1.xnb
+Content\GameContent\Images\HeroAttack2.xnb
+Content\GameContent\Images\HeroName.xnb
+Content\GameContent\Images\HeroPortrait.xnb
+Content\GameContent\Images\HeroHP_01.xnb
+Content\GameContent\Images\HeroHP_02.xnb
+Content\GameContent\Images\BossName_01.xnb
+Content\GameContent\Images\BossName_02.xnb
+Content\GameContent\Images\BossPortrait_01.xnb
+Content\GameContent\Images\BossPortrait_02.xnb
+Content\GameContent\Images\BossHP_01.xnb
+Content\GameContent\Images\BossHP_02.xnb
+Content\GameContent\Images\LOGO.xnb
+Content\GameContent\Images\T01.xnb
+Content\GameContent\Images\GameName_01.xnb
+Content\GameContent\Images\T02.xnb
+Content\GameContent\Images\Start_01.xnb
+Content\GameContent\Images\HeroTalkPortrait_01.xnb
+Content\GameContent\Images\HeroTalkPortrait_02.xnb
+Content\GameContent\Images\HeroTalkPortrait_03.xnb
+Content\GameContent\Images\TalkBackGround.xnb
+Content\GameContent\Images\Continue.xnb
+Content\GameContent\Images\BaGuaZheng.xnb
+Content\GameContent\Images\npc2.xnb
+Content\GameContent\Images\npc1Portrait.xnb
+Content\GameContent\Images\npc2Portrait.xnb
+Content\GameContent\Images\generateAnger.xnb
+Content\GameContent\Images\reduceAnger.xnb
+Content\GameContent\Images\AngerLoop.xnb
+Content\GameContent\Images\generateSiki.xnb
+Content\GameContent\Images\Siki_b.xnb
+Content\GameContent\Images\BackToHitBoss.xnb
+Content\GameContent\Images\BackToRestart.xnb
+Content\GameContent\Images\Boss1Portrait_01.xnb
+Content\GameContent\Images\Boss1Portrait_02.xnb
+Content\GameContent\Images\Boss1Portrait_03.xnb
+Content\GameContent\Images\Boss2Portrait_01.xnb
+Content\GameContent\Images\Boss2Portrait_02.xnb
+Content\GameContent\Images\Boss2Portrait_03.xnb
+Content\GameContent\Images\Cursor.xnb
+Content\GameContent\Images\MixBossPortrait_03.xnb
+Content\GameContent\Images\GameEnd.xnb
+Content\GameContent\Images\MixBossPortrait_01.xnb
+Content\GameContent\Images\Boss1Portrait_2.xnb
+Content\GameContent\Images\zhaoshibiao.xnb
+Content\GameContent\Images\CollisionRectView.xnb
+Content\GameContent\Images\Choose.xnb
+Content\GameContent\Images\HeroAttack1_T2.xnb
+Content\GameContent\Images\HeroAttack2_T2.xnb
+Content\GameContent\Images\HeroAttacked_T2.xnb
+Content\GameContent\Images\HeroHighRunning_T2.xnb
+Content\GameContent\Images\HeroKilled1_T2.xnb
+Content\GameContent\Images\HeroKilled_T2.xnb
+Content\GameContent\Images\Hero_T2.xnb
+Content\GameContent\Images\YongYuCursor.xnb
+Content\GameContent\Images\1.xnb
+Content\GameContent\Images\2.xnb
+Content\GameContent\Images\3.xnb
+Content\GameContent\Images\4.xnb
+Content\GameContent\Images\5.xnb
+Content\GameContent\Images\6.xnb
+Content\GameContent\Images\7.xnb
+Content\GameContent\Images\8.xnb
+Content\GameContent\Images\9.xnb
+Content\GameContent\Images\10.xnb
+Content\GameContent\Images\11.xnb
+Content\GameContent\Images\12.xnb
+Content\GameContent\Images\13.xnb
+Content\GameContent\Images\back.xnb
+Content\GameContent\Sounds\SE\HeroTalk_01.xnb
+Content\GameContent\Sounds\BGM\one.xnb
+Content\GameContent\Sounds\BGM\two.xnb
+Content\GameContent\Sounds\BGM\Talk_01.xnb
+Content\GameContent\Sounds\BGM\001.xnb
+Content\GameContent\Sounds\BGM\002.xnb
+Content\GameContent\Sounds\BGM\005.xnb
+Content\GameContent\Sounds\BGM\003.xnb
+Content\GameContent\Sounds\BGM\006.xnb
+Content\GameContent\Sounds\BGM\004.xnb
+Content\GameContent\Sounds\BGM\007.xnb
+Content\GameContent\Sounds\BGM\008.xnb
+Content\GameContent\Sounds\BGM\009.xnb
+Content\GameContent\Sounds\BGM\010.xnb
+Content\GameContent\Sounds\BGM\011.xnb
+Content\GameContent\Sounds\BGM\012.xnb
+Content\GameContent\Sounds\BGM\013.xnb
+Content\GameContent\Sounds\BGM\014.xnb
+Content\GameContent\Sounds\BGM\015.xnb
+Content\GameContent\Sounds\BGM\koulin1.xnb
+Content\GameContent\Sounds\BGM\koulin2.xnb
+Content\GameContent\Sounds\BGM\koulin3.xnb
+Content\GameContent\Sounds\BGM\koulin4.xnb
+Content\GameContent\Sounds\SE\imo_01.xnb
+Content\GameContent\Sounds\SE\ane_01.xnb
+Content\GameContent\Sounds\SE\ane_03.xnb
+Content\GameContent\Sounds\SE\imo_03.xnb
+Content\GameContent\Sounds\BGM\HeroTalk_01.xnb
+Content\GameContent\Sounds\SE\imo_04.xnb
+Content\GameContent\Sounds\SE\imo_05.xnb
+Content\GameContent\Sounds\SE\imo_06.xnb
+Content\GameContent\Sounds\SE\imo_07.xnb
+Content\GameContent\Sounds\SE\imo_08.xnb
+Content\GameContent\Sounds\SE\imo_09.xnb
+Content\GameContent\Sounds\SE\imo_10.xnb
+Content\GameContent\Sounds\SE\imo_11.xnb
+Content\GameContent\Sounds\SE\imo_12.xnb
+Content\GameContent\Sounds\SE\ane_02.xnb
+Content\GameContent\Sounds\SE\ane_04.xnb
+Content\GameContent\Sounds\SE\ane_05.xnb
+Content\GameContent\Sounds\SE\ane_06.xnb
+Content\GameContent\Sounds\SE\ane_07.xnb
+Content\GameContent\Sounds\SE\ane_08.xnb
+Content\GameContent\Sounds\SE\ane_09.xnb
+Content\GameContent\Sounds\SE\ane_10.xnb
+Content\GameContent\Sounds\SE\ane_11.xnb
+Content\GameContent\Sounds\SE\mix_01.xnb
+Content\GameContent\Sounds\SE\mix_02.xnb
+Content\GameContent\Sounds\SE\mix_02ane.xnb
+Content\GameContent\Sounds\SE\mix_02imo.xnb
+Content\GameContent\Sounds\BGM\NpcTalk_01.xnb
+Content\GameContent\Sounds\BGM\NpcTalk_02.xnb
+Content\GameContent\Sounds\BGM\NpcTalk_03.xnb
+Content\GameContent\Sounds\BGM\NpcTalk_04.xnb
+Content\GameContent\Sounds\BGM\NpcTalk_05.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_01.xnb
+Content\GameContent\Sounds\BGM\EndHeroTalk_01.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_02.xnb
+Content\GameContent\Sounds\BGM\EndHeroTalk_02.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_03.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_04.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_05.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_06.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_07.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_08.xnb
+Content\GameContent\Sounds\BGM\EndHeroTalk_03.xnb
+Content\GameContent\Sounds\BGM\EndHeroTalk_04.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_09.xnb
+Content\GameContent\Sounds\BGM\EndHeroTalk_05.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_10.xnb
+Content\GameContent\Sounds\BGM\EndHeroTalk_06.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_11.xnb
+Content\GameContent\Sounds\BGM\EndNpcTalk_12.xnb
+Content\GameContent\Sounds\SE\NpcTalk_01.xnb
+Content\GameContent\Sounds\SE\NpcTalk_02.xnb
+Content\GameContent\Sounds\SE\NpcTalk_03.xnb
+Content\GameContent\Sounds\SE\NpcTalk_04.xnb
+Content\GameContent\Sounds\SE\NpcTalk_05.xnb
+Content\GameContent\Sounds\SE\00.xnb
+Content\GameContent\Sounds\SE\01.xnb
+Content\GameContent\Sounds\SE\02.xnb
+Content\GameContent\Sounds\SE\03.xnb
+Content\GameContent\Sounds\SE\04.xnb
+Content\GameContent\Sounds\SE\05.xnb
+Content\GameContent\Sounds\SE\06.xnb
+Content\GameContent\Sounds\SE\07.xnb
+Content\GameContent\Sounds\SE\08.xnb
+Content\GameContent\Sounds\SE\09.xnb
+Content\GameContent\Sounds\SE\10.xnb
+Content\GameContent\Sounds\SE\11.xnb
+Content\GameContent\Sounds\SE\12.xnb
+Content\GameContent\Sounds\SE\13.xnb
+Content\GameContent\Sounds\SE\14.xnb
+Content\GameContent\Sounds\SE\15.xnb
+Content\GameContent\Sounds\SE\16.xnb
+Content\GameContent\Sounds\SE\17.xnb
+Content\GameContent\Sounds\SE\18.xnb
+Content\GameContent\Sounds\SE\19.xnb
+Content\GameContent\Sounds\SE\20a.xnb
+Content\GameContent\Sounds\SE\20b.xnb
+Content\GameContent\Sounds\SE\20c.xnb
+Content\GameContent\Sounds\SE\20d.xnb
+Content\GameContent\Sounds\SE\21.xnb
+Content\GameContent\Sounds\SE\22.xnb
+Content\GameContent\Sounds\SE\23.xnb
+Content\GameContent\Sounds\SE\24.xnb
+Content\GameContent\Sounds\SE\25a.xnb
+Content\GameContent\Sounds\SE\25b.xnb
+Content\GameContent\Sounds\SE\25c.xnb
+Content\GameContent\Sounds\SE\25d.xnb
+Content\GameContent\Sounds\SE\25e.xnb
+Content\GameContent\Sounds\SE\25f.xnb
+Content\GameContent\Sounds\SE\25g.xnb
+Content\GameContent\Sounds\SE\25h.xnb
+Content\GameContent\Sounds\SE\25i.xnb
+Content\GameContent\Sounds\SE\25j.xnb
+Content\GameContent\Sounds\SE\26a.xnb
+Content\GameContent\Sounds\SE\26b.xnb
+Content\GameContent\Sounds\SE\27a.xnb
+Content\GameContent\Sounds\SE\27b.xnb
+Content\GameContent\Sounds\SE\28a.xnb
+Content\GameContent\Sounds\SE\28b.xnb
+Content\GameContent\Sounds\SE\29a.xnb
+Content\GameContent\Sounds\SE\29b.xnb
+Content\GameContent\Sounds\SE\30a.xnb
+Content\GameContent\Sounds\SE\30b.xnb
+Content\GameContent\Sounds\SE\31a.xnb
+Content\GameContent\Sounds\SE\31b.xnb
+Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano04.xnb
+Content\GameContent\Sounds\BGM\bgm_maoudamashii_piano07.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\0.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\1.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\10.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\11.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\12.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\13.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\14.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\15.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\16.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\17.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\18.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\19.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\2.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\20.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\21.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\22.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\23.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\24.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\25.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\26.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\27.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\3.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\4.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\5.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\6.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\7.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\8.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\9.xnb
+Content\GameContent\Fonts\Microsoft YaHei_16\char.dat
+Content\GameContent\Fonts\Microsoft YaHei_16\info.dat
+Content\GameContent\Fonts\Microsoft YaHei_16\0.png
+Content\GameContent\Fonts\Microsoft YaHei_16\1.png
+Content\GameContent\Fonts\Microsoft YaHei_16\10.png
+Content\GameContent\Fonts\Microsoft YaHei_16\11.png
+Content\GameContent\Fonts\Microsoft YaHei_16\12.png
+Content\GameContent\Fonts\Microsoft YaHei_16\13.png
+Content\GameContent\Fonts\Microsoft YaHei_16\14.png
+Content\GameContent\Fonts\Microsoft YaHei_16\15.png
+Content\GameContent\Fonts\Microsoft YaHei_16\16.png
+Content\GameContent\Fonts\Microsoft YaHei_16\17.png
+Content\GameContent\Fonts\Microsoft YaHei_16\18.png
+Content\GameContent\Fonts\Microsoft YaHei_16\19.png
+Content\GameContent\Fonts\Microsoft YaHei_16\2.png
+Content\GameContent\Fonts\Microsoft YaHei_16\20.png
+Content\GameContent\Fonts\Microsoft YaHei_16\21.png
+Content\GameContent\Fonts\Microsoft YaHei_16\22.png
+Content\GameContent\Fonts\Microsoft YaHei_16\23.png
+Content\GameContent\Fonts\Microsoft YaHei_16\24.png
+Content\GameContent\Fonts\Microsoft YaHei_16\25.png
+Content\GameContent\Fonts\Microsoft YaHei_16\3.png
+Content\GameContent\Fonts\Microsoft YaHei_16\4.png
+Content\GameContent\Fonts\Microsoft YaHei_16\5.png
+Content\GameContent\Fonts\Microsoft YaHei_16\6.png
+Content\GameContent\Fonts\Microsoft YaHei_16\7.png
+Content\GameContent\Fonts\Microsoft YaHei_16\8.png
+Content\GameContent\Fonts\Microsoft YaHei_16\9.png
+Content\GameContent\Fonts\Microsoft YaHei_16\26.png
+Content\GameContent\Fonts\Microsoft YaHei_16\27.png
+Content\GameContent\Fonts\Test.spritefont
